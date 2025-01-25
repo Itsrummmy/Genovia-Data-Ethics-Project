@@ -24,7 +24,7 @@
 
 <!-- PROJECT OVERVIEW -->
 ## Project Overview
-At Digital Futures, I had the opportunity to contribute to a project focused on developing an AI ethics framework for the fictional nation of Genovia. Genovia was experiencing rapid technological advancement, particularly in AI, with widespread adoption across various sectors. This rapid growth, however, raised serious public concerns regarding data privacy, potential misuse of AI, and its broader societal impact. Recognizing the need for clear ethical guidelines, the Genovian government launched a competition, and our team of five took on the challenge of creating a Hippocratic oath and charter for ethical data use.
+This project was focused on creating a comprehensive ethical framework for the use of AI in the fictional nation of Genovia. Genovia's rapid technological advancement, especially in AI, had led to its widespread adoption across various sectors. However, this rapid growth also raised significant public concerns about data privacy, potential misuse of AI technologies, and their broader societal impact. To address these concerns, the Genovian government launched a competition, and our team of five took on the challenge of developing a Hippocratic oath and charter for ethical data use.
 
 
 <!-- Deliverables -->
